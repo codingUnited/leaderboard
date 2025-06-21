@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# OS/system junk
+.DS_Store
+Thumbs.db
